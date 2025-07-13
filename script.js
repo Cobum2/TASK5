@@ -50,4 +50,4 @@ console.log('Average:', answer)
     default:  return "Invalid grade";
   }
  };
- console.log(getGradeFeedback('B'));
+    console.log(getGradeFeedback('B'));
