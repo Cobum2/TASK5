@@ -50,6 +50,4 @@ console.log('Average:', answer)
     default:  return "Invalid grade";
   }
  };
-console.log(getGradeFeedback('B'));
-
-C:\Users\FunZ\Desktop\TASK 5
+ console.log(getGradeFeedback('B'));
